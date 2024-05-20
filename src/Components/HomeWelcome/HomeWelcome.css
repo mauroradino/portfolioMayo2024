@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Jersey+15&display=swap");
+
+.subtituloHome,
+.tituloHome {
+  position: relative;
+  z-index: 999;
+}
+@media (min-width: 1024px) {
+  .tituloHome {
+    font-family: "Jersey 15", sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 80px;
+  }
+  .subtituloHome {
+    font-family: "Jersey 15", sans-serif;
+    color: rgb(193, 193, 193);
+    text-align: center;
+  }
+  .divHomeWelcome {
+    margin-top: 400px;
+  }
+}
+@media (min-width: 767px) and (max-width: 1023px) {
+  .tituloHome {
+    font-family: "Jersey 15", sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 60px;
+  }
+  .subtituloHome {
+    color: rgb(193, 193, 193);
+    text-align: center;
+  }
+  .divHomeWelcome {
+    margin-top: 500px;
+  }
+}
+@media (max-width: 766px) {
+  .tituloHome {
+    font-family: "Jersey 15", sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+  }
+  .subtituloHome {
+    color: rgb(193, 193, 193);
+    text-align: center;
+  }
+  .divHomeWelcome {
+    margin-top: 400px;
+  }
+}

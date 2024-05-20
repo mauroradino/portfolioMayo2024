@@ -1,0 +1,39 @@
+[
+    {
+        "titulo": "Desarrollo Web",
+        "subtitulo": "Coderhouse",
+        "estado": "Finalizado",
+        "descripcion": "Descripcion de desarrollo web en Coderhouse"
+    },
+    {
+        "titulo": "Javascript",
+        "subtitulo": "Coderhouse",
+        "estado": "Finalizado",
+        "descripcion": "Descripcion deL curso de Javascript en Coderhouse"
+    },
+    {
+        "titulo": "React JS",
+        "subtitulo": "Coderhouse",
+        "estado": "Finalizado",
+        "descripcion": "Descripcion de React JS en Coderhouse"
+    },
+    {
+        "titulo": "Desarrollo de Software",
+        "subtitulo": "APX School",
+        "estado": "En Curso",
+        "descripcion": "Descripcion de desarrollo de software en APX"
+    },
+    {
+        "titulo": "Angular",
+        "subtitulo": "Open Bootcamp",
+        "estado": "En Curso",
+        "descripcion": "Descripcion del curso de Angular en OpenBootcamp"
+    },
+    {
+        "titulo": "Angular",
+        "subtitulo": "Open Bootcamp",
+        "estado": "En Curso",
+        "descripcion": "Descripcion del curso de Angular en OpenBootcamp"
+    }
+    
+]

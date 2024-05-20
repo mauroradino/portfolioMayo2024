@@ -1,0 +1,52 @@
+.divHabilidad {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 300px;
+  margin-bottom: 300px;
+}
+.habilidad {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #161716;
+  align-items: center;
+  padding: 10px;
+  height: max-content;
+  border-radius: 10px;
+  gap: 20px;
+}
+.textosHabilidad,
+.textosHabilidad .tituloHabilidad,
+.habilidad,
+.fotoHabilidad,
+.subtituloHabilidad {
+  background-color: #161716;
+}
+.textosHabilidad {
+  display: block;
+  width: max-content;
+}
+.textosHabilidad .tituloHabilidad {
+  color: white;
+  font-size: 15px;
+}
+.fotoHabilidad {
+  width: 40px;
+}
+.subtituloHabilidad {
+  color: rgb(171, 171, 171);
+  font-size: 12px;
+}
+.tituloHabilidades {
+  color: white;
+  text-align: left;
+  margin-bottom: 50px;
+}
+.grupoHabilidades {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}

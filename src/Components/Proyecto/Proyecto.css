@@ -1,0 +1,31 @@
+.divProyecto {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: 0 auto;
+  background-color: #252525;
+  border-radius: 8px;
+  border: 1px solid rgba(111, 106, 106, 0.479);
+}
+.textosProyecto {
+  background-color: #252525;
+  width: 45%;
+  margin-top: 20px;
+  text-align: start;
+}
+.tituloProyecto {
+  background-color: #252525;
+  font-size: 25px;
+  font-weight: 500;
+  color: white;
+}
+.subtituloProyecto {
+  font-size: 18px;
+  background-color: #252525;
+  color: rgb(171, 171, 171);
+}
+.imagenProyecto {
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  width: 50%;
+}
