@@ -28,6 +28,9 @@ header {
 Nav .navLink {
   color: white;
 }
+.active {
+  color: white !important;
+}
 Nav .navLink:hover {
   color: white;
   text-decoration: underline;

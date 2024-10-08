@@ -3,37 +3,30 @@
         "titulo": "Desarrollo Web",
         "subtitulo": "Coderhouse",
         "estado": "Finalizado",
-        "descripcion": "Descripcion de desarrollo web en Coderhouse"
+        "descripcion": "Este curso fue mi inicio en el desarrollo web, cursé a partir de enero del 2023 y aprendí a utilizar HTML, CSS y SASS"
     },
     {
         "titulo": "Javascript",
         "subtitulo": "Coderhouse",
         "estado": "Finalizado",
-        "descripcion": "Descripcion deL curso de Javascript en Coderhouse"
+        "descripcion": "En este curso aprendí sobre JavaScript, realicé proyectos y pude terminar en el TOP 10 de la comisión"
     },
     {
         "titulo": "React JS",
         "subtitulo": "Coderhouse",
         "estado": "Finalizado",
-        "descripcion": "Descripcion de React JS en Coderhouse"
+        "descripcion": "En el curso de React aprendi a usar hooks como: useEffect, useContext, useState, useRef. También aprendi sobre la estructura de proyectos para poder trabajar de la mejor manera"
     },
     {
         "titulo": "Desarrollo de Software",
         "subtitulo": "APX School",
         "estado": "En Curso",
-        "descripcion": "Descripcion de desarrollo de software en APX"
+        "descripcion": "En el curso de APX estoy estudiando Node.js, Git, TypeScript y testing con AVA"
     },
     {
         "titulo": "Angular",
         "subtitulo": "Open Bootcamp",
         "estado": "En Curso",
-        "descripcion": "Descripcion del curso de Angular en OpenBootcamp"
-    },
-    {
-        "titulo": "Angular",
-        "subtitulo": "Open Bootcamp",
-        "estado": "En Curso",
-        "descripcion": "Descripcion del curso de Angular en OpenBootcamp"
+        "descripcion": "Este curso me esta ayudando a aprender sobre Angular, en lo que va de las clases aprendi: Routing, Servicios, Guards, Decoradores y Estructura"
     }
-    
 ]

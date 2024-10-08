@@ -6,13 +6,8 @@
     },
     {
         "imagen": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
-        "titulo": "React",
+        "titulo": "React JS",
         "subtitulo": "Biblioteca"
-    },
-    {
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png",
-        "titulo": "Angular",
-        "subtitulo": "Framework"
     },
     {
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png",
@@ -20,9 +15,19 @@
         "subtitulo": "Lenguaje de programación"
     },
     {
+        "imagen": "https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.0.4/1710496760165/Microsoft.VisualStudio.Services.Icons.Default",
+        "titulo": "Next JS",
+        "subtitulo": "Biblioteca"
+    },
+    {
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png",
         "titulo": "GIT",
         "subtitulo": "Control de versiones"
+    },
+    {
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png",
+        "titulo": "Tailwind CSS",
+        "subtitulo": "Estilos"
     },
     {
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png",

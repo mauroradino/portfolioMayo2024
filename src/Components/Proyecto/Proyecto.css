@@ -2,6 +2,7 @@
   display: flex;
   justify-content: space-between;
   width: 80%;
+  height: 300px;
   margin: 0 auto;
   background-color: #252525;
   border-radius: 8px;
@@ -12,6 +13,7 @@
   width: 45%;
   margin-top: 20px;
   text-align: start;
+  align-self: center;
 }
 .tituloProyecto {
   background-color: #252525;
@@ -28,4 +30,25 @@
   border-top-left-radius: 8px;
   border-bottom-left-radius: 8px;
   width: 50%;
+}
+.verBtn {
+  padding: 5px 10px 5px 10px;
+  width: max-content;
+  border: 1px solid gray;
+  background-color: transparent;
+  color: white;
+  border-radius: 10px;
+}
+@media (max-width: 768px) {
+  .divProyecto {
+    height: 250px;
+    width: 100%;
+    margin: 0;
+  }
+  .subtituloProyecto {
+    font-size: 10px;
+  }
+  .tituloProyecto {
+    margin-bottom: 5px;
+  }
 }

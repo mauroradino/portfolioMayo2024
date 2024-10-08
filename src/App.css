@@ -17,4 +17,11 @@
 main {
   position: relative;
   z-index: 999;
+  padding-bottom: 100px;
+}
+#educacion,
+#habilidades,
+#proyectos,
+#contacto {
+  scroll-margin-top: 100px;
 }
